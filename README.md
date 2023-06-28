@@ -8,5 +8,5 @@ Each algorithm is separated by folder, use `g++` to compile `main.cpp` in each f
 
 ### For example:
 
-Compile: `g++ ./3sum/main.cpp -o ./3sum/main`
+Compile: `g++ ./3sum/main.cpp -o ./3sum/main`  
 Execute: `./3sum/main`
